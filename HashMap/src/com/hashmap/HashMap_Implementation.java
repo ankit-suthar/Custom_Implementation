@@ -18,4 +18,3 @@ public class HashMap_Implementation {
 		hm.print();
 	}
 }
-//https://www.javamadesoeasy.com/2015/02/hashmap-custom-implementation.html
